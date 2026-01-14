@@ -14,6 +14,20 @@ Building AI that is fair, safe, and transparent.
 - âœ… **Privacy**: Differential Privacy and Federated Learning
 - âœ… **Safety**: Hallucination reduction and Adversarial Robustness
 
+## 📂 Detailed Guides
+
+Explore these critical modules on building trustworthy AI:
+
+1.  **[Bias in ML](./01-Bias-in-ML/README.md)** - Identification and detection of systemic biases.
+2.  **[AI Fairness](./02-Fairness/README.md)** - Mathematical metrics and mitigation strategies.
+3.  **[Explainability (XAI)](./03-Explainability-XAI/README.md)** - SHAP, LIME, and opening the Black Box.
+4.  **[Data Privacy](./04-Data-Privacy/README.md)** - DP, Federated Learning, and GDPR.
+5.  **[Model Safety](./05-Model-Safety/README.md)** - Adversarial attacks and Red Teaming.
+6.  **[LLM Issues](./06-LLM-Specific-Issues/README.md)** - Hallucinations, Toxicity, and Alignment.
+7.  **[Regulations](./07-Regulations-Standards/README.md)** - EU AI Act and NIST Framework.
+8.  **[Case Studies](./08-Case-Studies/README.md)** - Lessons from real-world AI failures.
+9.  **[Interview Prep](./09-Interview-Prep/README.md)** - Ethics scenarios and technical Q&A.
+
 ---
 
 ## ðŸŽ¯ Learning Path
